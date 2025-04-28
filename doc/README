@@ -1,0 +1,59 @@
+NOTE
+dxf2G is a simple program that converts dxf 2D files into a .ngc G code files usable in programs such as Emc2 (www.linuxcnc.org).
+
+INSTALLATION
+$ tar -xzvf dxf2G-version.tgz
+$ cd dxf2G-version
+$ ./configure
+$ make
+$ sudo make install
+
+EXAMPLE FILES
+Have a look at example_1.dxf and example_3.dxf which refer to the use of layer's names whereas example_2.dxf refers to the use of negative Z coordinates.
+
+DISCLAIM
+This is a free software.You can use it, redistribuite it and alter it to taylor it at your needs.
+I am not responsible for any damages the use of this program might cause. You use it at your ownn risk.
+
+BUGS
+Refer bugs or possible improvings to:
+pier@unirc.eu
+
+TODO
+1)	Removing all the stuff the code is bloated with at the time of writing (it comes from a previous DOS program used to pilor 3 axis CNC stepper router);
+2)	Use of G33 command;
+3)	Spline entities;
+4)	Ellipses entities;
+5)	Optimization of reordering entities routine;
+6)	Any hints....
+
+DONE
+With reference to version 1.0.1 code was furtherly cleaned 
+by no longer usefull stuff. Yet much has still to be done.
+A X version relying on tcl-tk is available through the command dxf2G.tcl.
+Output to standard output was added to use dxf2G.tcl as a filter in Emc2.
+1.0.3.1	Fixed bug with 2D polylines (by Ray Abram)
+1.0.4	Added 61, G61.1 e G64 modes;  refer to :
+        http://www.linuxcnc.org/docview/html//gcode_main.html#sub:G61,-G61.1,-G64 
+        for an explanation of the three modes; Added the possibility to pass entities cutting 
+        parameters through their layer's names syntax: DPxxxx.xxxxNPxxxFxxxx.xxxx
+1.0.5	added refinements suggested by Ekkehard Blanz; installation through
+	configure make make install steps
+
+INTERNET
+Webpage:
+http://pier.unirc.eu
+Download:
+http://pier.unirc.eu/software/dxf2G.tgz
+
+ACKNOWLEDGMENT
+Thanks to anyone sending back usefull testing results to the abovementioned e-mail address.
+
+AUTHOR
+Pierpaolo Garofalo 
+
+VERSION
+1.0.5
+
+DATE
+29 October 2010

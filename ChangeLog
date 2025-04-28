@@ -1,0 +1,19 @@
+versione 0.0 derivante dalla 5012_3 per Linux
+    supporta la modalità grafica con interfaccia tcl-tk
+    supporta le LWPOLYLINE
+    sembra funzionare bene al 30/08/06// scompaiono dei cerchi .... fumo.dxf(mancano 2 cerchi)  e fumo_exp.dxf
+    risolto passando np come parametro... applicare anche alle altre entita
+    implementato il passaggio dei parametri da riga di comando
+versione 1.0.3
+    aggiunto output su standard output per fornire input a Emc2
+versione 1.0.3.1
+    corretto baco su polilinee 2D senza Z da Ray Abram
+versione 1.0.4
+    aggiunto il modo G61, G61.1 e G64
+    http://www.linuxcnc.org/docview/html//gcode_main.html#sub:G61,-G61.1,-G64:
+    Aggiunta la possibilità di passare i parametri di taglio delle entità tramite nome del layer
+versione 1.0.5
+    aggiunte modifiche suggerite da Ekkehard Blanz:
+	installazione in	/usr/local/bin
+	manuali in		/usr/share/man
+    aggiunta installazione con autotools

@@ -1,0 +1,22 @@
+INSTALLING
+Run:
+$ tar -xzvf dxf2G-version.tgz
+$ cd dxf2G-version
+$ ./configure
+$ make
+$ sudo make install
+
+
+UNINSTALLING
+For uninstalling, run:
+
+$ sudo make uninstall
+
+from the top folder of this package
+
+
+INSTALLATION DIRECTORIES
+
+Binaries dxf2G and dxf2G.tcl go to:	/usr/local/bin;
+Man page dxf2G.1 goes to:		/usr/local/share/man/man1
+Examples go to:				/usr/local/share/doc/dxf2g

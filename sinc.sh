@@ -1,0 +1,47 @@
+#!/bin/bash
+# Pierpaolo Garofalo
+# Aprile 2025
+# https://pier.unirc.eu
+############################
+function enterKey(){
+    read -n1 -s -r -p $'Press space to continue...\n' key
+}
+PROJECT="dxf2G"
+############################
+if [ $# -eq 0 ]
+	then
+		echo "Uso $0 [codeberg|github]"
+		exit
+fi
+if [ $1 == "codeberg" ]
+	then
+		echo "Push su $1..."
+		echo ".git_$1"
+elif [ $1 == "github" ]
+	then
+		echo "Push su $1..."
+		echo ".git_$1"
+else 
+	echo "Uso $0 [codeberg|github]"
+	exit
+fi
+GITDIR=".git_$1"
+echo $GITDIR
+rm -rf .git.backup
+mv  .git .git.backup
+cp -r $GITDIR .git
+today=$(date +%d/%m/%y)
+echo $today
+rsync -av  --delete ./ /home/pier/Documents/PlatformIO/Projects/RemoteHub/$PROJECT
+cd /home/pier/Documents/PlatformIO/Projects/RemoteHub/$PROJECT
+git status
+enterKey
+git add -u
+enterKey
+git commit -m "File cancellati"
+enterKey
+git status
+enterKey
+git add .
+git commit -m "$today"
+git push -f origin main 

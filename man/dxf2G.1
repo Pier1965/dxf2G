@@ -1,0 +1,121 @@
+.\" Copyright Pierpaolo Garofalo 2007.
+.\"
+.\" This file may be copied under the conditions described
+.\" in the LDP GENERAL PUBLIC LICENSE, Version 1, September 2006
+.\" that should have been distributed together with this file.
+.\"
+.TH dxf2G 1 10-10-2007 "dxf cam utils"
+.SH NAME
+.B dxf2G
+.SH SYNOPSIS
+.BI "dxf2G [" options "]
+.sp
+GNU options:
+.\" n = numero di passate -------------> np
+.\" p = profondità delle passate ------> pp
+.\" d = distanza punta pezzo ----------> dp
+.\" v = velocità di taglio ------------> vt
+.\" u = mm o inch ---------------------> unita
+.\" f = file.dxf ----------------------> nome_file
+.\" i = distanza inizio taglio --------> dit
+.BI "[\-v " feed ]
+.BI "[\-u " units ]
+.BI "[\-d " dist ]
+.BI "[\-n " num ]
+.BI "[\-p " depth ]
+.BI "[\-f " file.dxf ]
+.BI "[\-i " "cut distance" ]
+.BI "[\-e " "path mode" ]
+.BI "[\-h " help]
+.SH DESCRIPTION
+.B dxf2G
+outputs a G-code CNC file with .ngc extension the input being a .dxf file.
+.SH "GNU OPTIONS"
+.TP
+.B "\-v"
+Sets the cutting feed in units/second.
+.TP
+.B "\-u"
+Sets the units: inch 
+.BI "\-u
+i 
+.BI \-> G20" 
+or mm 
+.BI "\-u 
+m
+.BI \-> G21"
+.TP
+.B "\-d"
+Sets the Z distance of the tool from the surface moving in G0 mode.
+.TP
+.B "\-n"
+Sets the number of passages each of which is p units deep.
+.TP
+.B "\-p"
+Sets the depth of cutting passes.
+.TP
+.B "\-f"
+Sets the name of the input dxf file to be converted.
+.TP
+.B "\-i"
+Sets the Z distance of the tool from the surface where moving in G1 mode starts.
+.TP
+.B "\-e"
+Sets the path mode. Possible choices are G61, G61.1 G64 and G64 Pxxx. Program G61 to put the machining center into exact path mode, G61.1 for exact stop mode, or G64 P- for continuous mode with optional tolerance.
+.TP
+.B "\-h"
+Prints an example with comments.
+
+.SH NOTES
+Dxf file must be drawn following few simple rules.
+Outer lines must be in 
+.B WHITE
+color (n.7) whereas inner lines, which are cut first,
+must be in any other color but
+.B WHITE
+.B BYLYER
+or
+.B BYBLOCK
+.
+When an entity is drawn at a negative z level, this will override the -d and -p parameters resulting in single passage groove as deep as z.
+Whenever a supported entity is drawn on a layer whose name follows the syntax DPxxxx.xxxxNPxxxFxxxx.xxxx, it will be cut in NP number of passages, each deep DP at F feed rate. Have a look at the attached dxf example files. 
+Entities supported are:
+
+.B line
+
+.B polyline
+
+.B lwpolyline
+
+.B point
+
+.B circle
+
+.B arc
+
+.SH dxf2G.tcl
+is the graphic tool interface to dxf2G that can be used as a filter by Emc2.
+Follow the instructions reported at: http://www.linuxcnc.org/docview/devel/html//gui_axis.html#r1_11_1
+As an example here below are the lines I added to my configs/stepper/stepper_mm.ini file:
+
+[FILTER]
+
+PROGRAM_EXTENSION = .tcl, .py Tcl Script
+
+tcl = wish
+
+py = python
+
+
+.SH AUTHORS
+Pierpaolo Garofalo
+
+.SH COPYRIGHT
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+.SH BUGS
+
+Mail corrections, additions, report bugs in the program to pier@unirc.eu
+

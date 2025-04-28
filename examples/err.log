@@ -1,0 +1,4966 @@
+
+
+
+(DXF2G GPROGRAMMA PER LA CONVERSIONE DI FILE DAL FORMATO DXF A CODICE G)
+(AUTORE: Ing. Pierpaolo Garofalo)
+(Versione: 1.0.6)
+(Data: 09/04/2025)
+
+
+dxf2G  Copyright (C) 2010  Pierpaolo Garofalo
+This program comes with ABSOLUTELY NO WARRANTY
+This is free software, and you are welcome to redistribute it
+under certain conditions;
+
+
+
+#Compilato il: Apr 10 2025 alle: 19:17:42
+(Units = m)
+(File name = basetta-wrover_cnc.dxf)
+
+Sorting cnc path
+(242 	entities found!)
+(13 	circles found!)
+(0 	arcs found!)
+(168 	points found!)
+(2 	lines found!)
+(0 	polylines found!)
+(59 	lwpolylines found!)
+Done!
+
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= 330
+Lunghezza nome layer= 3
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0003.0000NP001F0050.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=3.000000
+f_entity=50.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
+Valuto nome layer
+Nome layer= DP0000.1000NP001F0200.0000
+Lunghezza nome layer= 26
+dp_layer_name_code= DP
+np_layer_name_code= NPDP
+f_layer_name_code= F
+Entita con parametri propri
+dp_entity=0.100000
+f_entity=200.000000
+np_entity=1
