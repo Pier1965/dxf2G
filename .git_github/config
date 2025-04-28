@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:Pier1965/dxf2G.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

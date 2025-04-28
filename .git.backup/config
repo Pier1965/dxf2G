@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@codeberg.org:pppc65/dxf2G.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
